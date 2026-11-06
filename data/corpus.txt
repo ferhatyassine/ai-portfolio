@@ -1,0 +1,532 @@
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A human stays accountable for any decision that affects a real person.
+An analyst has to test two tools on the same task while staying secure and respectful.
+Personal and protected information must be removed before text leaves a secure environment.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Personal and protected information must be removed before text leaves a secure environment.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+A student developer has to test how the result was produced because accuracy matters more than speed.
+An analyst ought to explain a long report in plain language before anything is published.
+A chatbot should never share each step of the process so that users can trust the result.
+A chatbot should check the source of every answer so that users can trust the result.
+A language model has to test how the result was produced while staying secure and respectful.
+A chatbot should never share two tools on the same task before anything is published.
+A project team should check a long report in plain language to keep the work fair and transparent.
+A generative AI tool should check the output against a human reference because accuracy matters more than speed.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+A generative AI tool has to test personal information because accuracy matters more than speed.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+A language model should check a long report in plain language and asks a person to review it.
+A chatbot can compare the output against a human reference so that mistakes are found early.
+An analyst has to test the source of every answer in every project, large or small.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+Testing a tool on a few simple cases finds many bugs before users do.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+A chatbot can summarize the output against a human reference in every project, large or small.
+A language model must protect sensitive data with an outside service before anything is published.
+A generative AI tool can compare a long report in plain language while staying secure and respectful.
+Testing a tool on a few simple cases finds many bugs before users do.
+An analyst must protect the output against a human reference to keep the work fair and transparent.
+Documentation lets the next developer understand why a tool was built the way it was.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A chatbot should never share two tools on the same task to keep the work fair and transparent.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+A project team has to test how the result was produced so that users can trust the result.
+A digital innovation team has to test each step of the process before anything is published.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Personal and protected information must be removed before text leaves a secure environment.
+A reviewer should check personal information and asks a person to review it.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+An analyst should never share how the result was produced before anything is published.
+Testing a tool on a few simple cases finds many bugs before users do.
+Documentation lets the next developer understand why a tool was built the way it was.
+A small model trained on a small text can only repeat and remix what it has seen.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A language model has to test sensitive data with an outside service to keep the work fair and transparent.
+Good prompts give context, a clear task, and the format of the answer.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+A language model has to test a long report in plain language to keep the work fair and transparent.
+A project team should check a long report in plain language so that mistakes are found early.
+A reviewer ought to explain the output against a human reference so that mistakes are found early.
+A digital innovation team should check personal information before anything is published.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+A generative AI tool has to test each step of the process and asks a person to review it.
+An analyst can compare the source of every answer so that mistakes are found early.
+A digital innovation team can compare how the result was produced so that users can trust the result.
+Good prompts give context, a clear task, and the format of the answer.
+A reviewer needs to document personal information before anything is published.
+A reviewer ought to explain how the result was produced because accuracy matters more than speed.
+Testing a tool on a few simple cases finds many bugs before users do.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A generative AI tool can summarize a long report in plain language so that users can trust the result.
+An analyst should never share each step of the process to keep the work fair and transparent.
+A digital innovation team should check how the result was produced while staying secure and respectful.
+Training adjusts millions of weights so that the predicted token matches the real one.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+A digital innovation team needs to document the source of every answer to keep the work fair and transparent.
+A small model trained on a small text can only repeat and remix what it has seen.
+An analyst must protect each step of the process because accuracy matters more than speed.
+Personal and protected information must be removed before text leaves a secure environment.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+A project team should check a long report in plain language before anything is published.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A large language model predicts the next token from the tokens that came before it.
+A large language model predicts the next token from the tokens that came before it.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+A human stays accountable for any decision that affects a real person.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+A generative AI tool needs to document the output against a human reference so that users can trust the result.
+A human stays accountable for any decision that affects a real person.
+A chatbot should check a long report in plain language in every project, large or small.
+A small model trained on a small text can only repeat and remix what it has seen.
+A project team must protect each step of the process so that users can trust the result.
+A language model should never share two tools on the same task so that mistakes are found early.
+A generative AI tool must protect how the result was produced before anything is published.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Documentation lets the next developer understand why a tool was built the way it was.
+An analyst needs to document personal information so that users can trust the result.
+An analyst should never share sensitive data with an outside service so that mistakes are found early.
+A project team has to test the output against a human reference so that mistakes are found early.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Personal and protected information must be removed before text leaves a secure environment.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Personal and protected information must be removed before text leaves a secure environment.
+A language model needs to document each step of the process to keep the work fair and transparent.
+A small model trained on a small text can only repeat and remix what it has seen.
+A small model trained on a small text can only repeat and remix what it has seen.
+Good prompts give context, a clear task, and the format of the answer.
+A student developer has to test how the result was produced and asks a person to review it.
+A reviewer has to test a long report in plain language so that mistakes are found early.
+Testing a tool on a few simple cases finds many bugs before users do.
+A project team must protect how the result was produced and asks a person to review it.
+An analyst should never share the source of every answer while staying secure and respectful.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+An analyst ought to explain the output against a human reference so that mistakes are found early.
+A language model has to test two tools on the same task while staying secure and respectful.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A chatbot must protect sensitive data with an outside service so that users can trust the result.
+A human stays accountable for any decision that affects a real person.
+A project team needs to document two tools on the same task while staying secure and respectful.
+Testing a tool on a few simple cases finds many bugs before users do.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+A digital innovation team should never share a long report in plain language so that users can trust the result.
+A generative AI tool needs to document how the result was produced so that users can trust the result.
+Documentation lets the next developer understand why a tool was built the way it was.
+A project team has to test how the result was produced to keep the work fair and transparent.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A student developer can compare how the result was produced to keep the work fair and transparent.
+A student developer should check the output against a human reference in every project, large or small.
+A generative AI tool needs to document the output against a human reference so that users can trust the result.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A human stays accountable for any decision that affects a real person.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+An analyst must protect personal information to keep the work fair and transparent.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A generative AI tool needs to document two tools on the same task because accuracy matters more than speed.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+An analyst must protect the output against a human reference and asks a person to review it.
+A chatbot needs to document how the result was produced while staying secure and respectful.
+A reviewer must protect personal information so that users can trust the result.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+A student developer should never share two tools on the same task before anything is published.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+An analyst ought to explain two tools on the same task before anything is published.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+A reviewer must protect each step of the process before anything is published.
+A chatbot can compare how the result was produced in every project, large or small.
+A digital innovation team can compare the output against a human reference because accuracy matters more than speed.
+An analyst must protect the output against a human reference in every project, large or small.
+A chatbot has to test how the result was produced because accuracy matters more than speed.
+A project team has to test the source of every answer because accuracy matters more than speed.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+A digital innovation team can summarize the source of every answer to keep the work fair and transparent.
+A student developer ought to explain personal information and asks a person to review it.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A project team should never share sensitive data with an outside service and asks a person to review it.
+A small model trained on a small text can only repeat and remix what it has seen.
+A chatbot must protect how the result was produced to keep the work fair and transparent.
+A generative AI tool has to test two tools on the same task because accuracy matters more than speed.
+A human stays accountable for any decision that affects a real person.
+A digital innovation team must protect each step of the process so that users can trust the result.
+A human stays accountable for any decision that affects a real person.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+A generative AI tool ought to explain the source of every answer while staying secure and respectful.
+Good prompts give context, a clear task, and the format of the answer.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+Good prompts give context, a clear task, and the format of the answer.
+A language model ought to explain sensitive data with an outside service so that users can trust the result.
+A student developer should check a long report in plain language because accuracy matters more than speed.
+A digital innovation team must protect personal information so that mistakes are found early.
+A generative AI tool must protect sensitive data with an outside service to keep the work fair and transparent.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+A student developer can summarize the source of every answer because accuracy matters more than speed.
+A chatbot must protect how the result was produced before anything is published.
+A chatbot has to test a long report in plain language before anything is published.
+A generative AI tool should never share how the result was produced and asks a person to review it.
+Documentation lets the next developer understand why a tool was built the way it was.
+A human stays accountable for any decision that affects a real person.
+A student developer should never share the output against a human reference so that users can trust the result.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+A large language model predicts the next token from the tokens that came before it.
+A generative AI tool has to test the source of every answer so that users can trust the result.
+A language model must protect the source of every answer and asks a person to review it.
+A reviewer must protect a long report in plain language because accuracy matters more than speed.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+An analyst should check the source of every answer to keep the work fair and transparent.
+A student developer can summarize the source of every answer and asks a person to review it.
+A reviewer must protect two tools on the same task in every project, large or small.
+Personal and protected information must be removed before text leaves a secure environment.
+Personal and protected information must be removed before text leaves a secure environment.
+An analyst ought to explain sensitive data with an outside service while staying secure and respectful.
+An analyst should check sensitive data with an outside service because accuracy matters more than speed.
+A student developer needs to document each step of the process before anything is published.
+A large language model predicts the next token from the tokens that came before it.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+A language model can summarize the output against a human reference so that mistakes are found early.
+Documentation lets the next developer understand why a tool was built the way it was.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+A digital innovation team needs to document a long report in plain language in every project, large or small.
+A digital innovation team should never share the output against a human reference so that users can trust the result.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Personal and protected information must be removed before text leaves a secure environment.
+A student developer needs to document the output against a human reference and asks a person to review it.
+Training adjusts millions of weights so that the predicted token matches the real one.
+Testing a tool on a few simple cases finds many bugs before users do.
+An analyst should never share two tools on the same task before anything is published.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+A reviewer has to test how the result was produced before anything is published.
+Good prompts give context, a clear task, and the format of the answer.
+A reviewer ought to explain sensitive data with an outside service in every project, large or small.
+A generative AI tool can compare sensitive data with an outside service in every project, large or small.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+A generative AI tool needs to document sensitive data with an outside service to keep the work fair and transparent.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+A project team ought to explain the output against a human reference to keep the work fair and transparent.
+A reviewer can compare sensitive data with an outside service so that users can trust the result.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A digital innovation team can compare personal information in every project, large or small.
+A large language model predicts the next token from the tokens that came before it.
+Documentation lets the next developer understand why a tool was built the way it was.
+A student developer should never share personal information so that users can trust the result.
+A large language model predicts the next token from the tokens that came before it.
+A digital innovation team should check a long report in plain language before anything is published.
+A project team should check sensitive data with an outside service so that users can trust the result.
+Personal and protected information must be removed before text leaves a secure environment.
+A human stays accountable for any decision that affects a real person.
+A chatbot can compare personal information so that users can trust the result.
+A reviewer can summarize the source of every answer and asks a person to review it.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+Good prompts give context, a clear task, and the format of the answer.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+A language model must protect the output against a human reference so that users can trust the result.
+A project team has to test each step of the process so that users can trust the result.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+An analyst needs to document personal information because accuracy matters more than speed.
+A digital innovation team can summarize two tools on the same task before anything is published.
+A digital innovation team has to test each step of the process because accuracy matters more than speed.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Training adjusts millions of weights so that the predicted token matches the real one.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A large language model predicts the next token from the tokens that came before it.
+An analyst can summarize two tools on the same task in every project, large or small.
+A project team has to test a long report in plain language before anything is published.
+Good prompts give context, a clear task, and the format of the answer.
+A project team must protect each step of the process so that users can trust the result.
+An analyst should never share each step of the process in every project, large or small.
+Training adjusts millions of weights so that the predicted token matches the real one.
+A digital innovation team should never share each step of the process while staying secure and respectful.
+A chatbot can compare each step of the process and asks a person to review it.
+A reviewer can compare sensitive data with an outside service so that mistakes are found early.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A large language model predicts the next token from the tokens that came before it.
+A language model needs to document sensitive data with an outside service and asks a person to review it.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+A chatbot ought to explain a long report in plain language to keep the work fair and transparent.
+A chatbot should check how the result was produced in every project, large or small.
+A language model has to test personal information and asks a person to review it.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+A large language model predicts the next token from the tokens that came before it.
+A human stays accountable for any decision that affects a real person.
+A digital innovation team has to test how the result was produced before anything is published.
+A chatbot must protect sensitive data with an outside service before anything is published.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+A language model needs to document personal information because accuracy matters more than speed.
+Documentation lets the next developer understand why a tool was built the way it was.
+A large language model predicts the next token from the tokens that came before it.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+A reviewer should check two tools on the same task before anything is published.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A generative AI tool has to test how the result was produced because accuracy matters more than speed.
+A generative AI tool should check sensitive data with an outside service and asks a person to review it.
+A generative AI tool can summarize a long report in plain language and asks a person to review it.
+A reviewer can compare two tools on the same task and asks a person to review it.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+A reviewer can summarize a long report in plain language before anything is published.
+An analyst has to test sensitive data with an outside service so that mistakes are found early.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Personal and protected information must be removed before text leaves a secure environment.
+A digital innovation team can compare personal information and asks a person to review it.
+A digital innovation team must protect two tools on the same task in every project, large or small.
+An analyst should never share a long report in plain language so that users can trust the result.
+Good prompts give context, a clear task, and the format of the answer.
+Documentation lets the next developer understand why a tool was built the way it was.
+A student developer should never share the source of every answer so that mistakes are found early.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+A reviewer has to test the source of every answer before anything is published.
+A digital innovation team must protect each step of the process so that mistakes are found early.
+A chatbot should never share how the result was produced so that users can trust the result.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A language model can summarize two tools on the same task before anything is published.
+Training adjusts millions of weights so that the predicted token matches the real one.
+A digital innovation team needs to document how the result was produced and asks a person to review it.
+Documentation lets the next developer understand why a tool was built the way it was.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+A small model trained on a small text can only repeat and remix what it has seen.
+A chatbot must protect the output against a human reference because accuracy matters more than speed.
+A chatbot can summarize sensitive data with an outside service so that users can trust the result.
+Testing a tool on a few simple cases finds many bugs before users do.
+A small model trained on a small text can only repeat and remix what it has seen.
+Responsible use is fair, accountable, secure, transparent, educated and relevant.
+A small model trained on a small text can only repeat and remix what it has seen.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Training adjusts millions of weights so that the predicted token matches the real one.
+A chatbot should never share how the result was produced because accuracy matters more than speed.
+A reviewer should never share sensitive data with an outside service because accuracy matters more than speed.
+A reviewer needs to document how the result was produced while staying secure and respectful.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+A generative AI tool should never share sensitive data with an outside service so that mistakes are found early.
+A digital innovation team should never share the source of every answer so that mistakes are found early.
+A reviewer has to test each step of the process and asks a person to review it.
+Training adjusts millions of weights so that the predicted token matches the real one.
+A project team must protect sensitive data with an outside service because accuracy matters more than speed.
+A generative AI tool should check each step of the process in every project, large or small.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A reviewer can summarize each step of the process so that mistakes are found early.
+A reviewer ought to explain two tools on the same task and asks a person to review it.
+Documentation lets the next developer understand why a tool was built the way it was.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A digital innovation team can compare each step of the process because accuracy matters more than speed.
+A generative AI tool should check sensitive data with an outside service while staying secure and respectful.
+A digital innovation team should never share two tools on the same task because accuracy matters more than speed.
+Training adjusts millions of weights so that the predicted token matches the real one.
+A reviewer has to test the source of every answer to keep the work fair and transparent.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+A chatbot should check sensitive data with an outside service in every project, large or small.
+A project team needs to document personal information while staying secure and respectful.
+A digital innovation team has to test personal information so that users can trust the result.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+An analyst needs to document two tools on the same task and asks a person to review it.
+Good prompts give context, a clear task, and the format of the answer.
+Testing a tool on a few simple cases finds many bugs before users do.
+A chatbot can compare two tools on the same task while staying secure and respectful.
+Training adjusts millions of weights so that the predicted token matches the real one.
+Testing a tool on a few simple cases finds many bugs before users do.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+A project team can compare sensitive data with an outside service because accuracy matters more than speed.
+A reviewer can compare personal information in every project, large or small.
+A small model trained on a small text can only repeat and remix what it has seen.
+A large language model predicts the next token from the tokens that came before it.
+A human stays accountable for any decision that affects a real person.
+A generative AI tool ought to explain how the result was produced while staying secure and respectful.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A generative AI tool must protect sensitive data with an outside service in every project, large or small.
+A digital innovation team must protect how the result was produced and asks a person to review it.
+Q: Why evaluate a summary?
+A: Because a fluent summary can still miss the key point or invent a detail.
+A project team should check a long report in plain language and asks a person to review it.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+Personal and protected information must be removed before text leaves a secure environment.
+A student developer can summarize the source of every answer to keep the work fair and transparent.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A language model can compare the source of every answer and asks a person to review it.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+Good prompts give context, a clear task, and the format of the answer.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Self-attention lets every token look at the earlier tokens and decide which ones matter.
+Q: What is a token?
+A: A token is a small piece of text, such as a word or a character, turned into a number.
+A project team should never share sensitive data with an outside service in every project, large or small.
+A language model must protect two tools on the same task to keep the work fair and transparent.
+An analyst has to test a long report in plain language and asks a person to review it.
+A project team needs to document sensitive data with an outside service because accuracy matters more than speed.
+A project team needs to document two tools on the same task to keep the work fair and transparent.
+A chatbot can compare the source of every answer and asks a person to review it.
+A project team should never share the output against a human reference so that mistakes are found early.
+A project team needs to document each step of the process before anything is published.
+An analyst should never share two tools on the same task so that users can trust the result.
+Training adjusts millions of weights so that the predicted token matches the real one.
+Testing a tool on a few simple cases finds many bugs before users do.
+Training adjusts millions of weights so that the predicted token matches the real one.
+Documentation lets the next developer understand why a tool was built the way it was.
+An analyst should never share a long report in plain language so that mistakes are found early.
+A reviewer must protect each step of the process so that users can trust the result.
+A large language model predicts the next token from the tokens that came before it.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Q: What is a prompt?
+A: A prompt is the text we give a model so that it can continue it.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A project team must protect sensitive data with an outside service before anything is published.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+A language model can summarize two tools on the same task in every project, large or small.
+A project team ought to explain how the result was produced in every project, large or small.
+A student developer must protect two tools on the same task in every project, large or small.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+A small model trained on a small text can only repeat and remix what it has seen.
+A language model has to test the source of every answer before anything is published.
+A chatbot can compare the output against a human reference so that mistakes are found early.
+A language model has to test each step of the process to keep the work fair and transparent.
+A digital innovation team must protect two tools on the same task in every project, large or small.
+A reviewer should never share a long report in plain language to keep the work fair and transparent.
+A digital innovation team should check sensitive data with an outside service while staying secure and respectful.
+A digital innovation team must protect personal information because accuracy matters more than speed.
+A human stays accountable for any decision that affects a real person.
+Q: Why remove personal data?
+A: Because private information must never be sent to a tool that is not approved.
+Testing a tool on a few simple cases finds many bugs before users do.
+An analyst should check personal information so that mistakes are found early.
+An analyst should never share the source of every answer in every project, large or small.
+A project team should never share personal information before anything is published.
+Good prompts give context, a clear task, and the format of the answer.
+Evaluation means comparing the output with a trusted reference, not just reading it once.
+An analyst should never share each step of the process while staying secure and respectful.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A generative AI tool should check the source of every answer because accuracy matters more than speed.
+Training adjusts millions of weights so that the predicted token matches the real one.
+A small model trained on a small text can only repeat and remix what it has seen.
+Q: What is a hallucination?
+A: It is an answer that sounds right but is not supported by any source.
+A student developer should check sensitive data with an outside service to keep the work fair and transparent.
+A language model should never share personal information before anything is published.
+A reviewer should check each step of the process so that users can trust the result.
+A reviewer should never share sensitive data with an outside service before anything is published.
+A student developer can summarize the output against a human reference while staying secure and respectful.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A reviewer can compare personal information while staying secure and respectful.
+A reviewer should never share a long report in plain language and asks a person to review it.
+A language model should check each step of the process in every project, large or small.
+A generative AI tool should never share the output against a human reference before anything is published.
+A project team has to test each step of the process to keep the work fair and transparent.
+An analyst must protect a long report in plain language while staying secure and respectful.
+Generative AI can draft, summarize and translate, but it can also be confidently wrong.
+A digital innovation team needs to document a long report in plain language so that mistakes are found early.
+A generative AI tool should never share the output against a human reference so that mistakes are found early.
+Q: What is training?
+A: Training is repeating predict, measure the error and adjust until the error is small.

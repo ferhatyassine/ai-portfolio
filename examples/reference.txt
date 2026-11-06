@@ -1,0 +1,1 @@
+Generative AI is fast but can be wrong, so teams should protect personal information and have a person review the output.

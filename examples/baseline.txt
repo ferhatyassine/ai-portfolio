@@ -1,0 +1,1 @@
+Generative AI tools can draft, summarize and translate text in seconds. However, they can also produce answers that sound right but are wrong. Teams should remove personal information before using any tool. A person must review the output before it is published. Clear documentation helps the next developer understand how the tool works.

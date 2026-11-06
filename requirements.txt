@@ -1,0 +1,4 @@
+torch>=2.2
+pytest>=8
+# optional, only for the Claude adapter:
+# anthropic
