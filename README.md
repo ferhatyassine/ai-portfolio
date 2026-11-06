@@ -63,6 +63,25 @@ python -m doc_explainer.web        # then open http://127.0.0.1:8000
 
 **Limits:** masking is pattern-based and does **not** detect names or street addresses; the offline mode is rule-based and can miss unusual wording; the fact guard checks numbers and dates, not meaning. Not legal or tax advice.
 
+## 4. `coop_copilot/` — Étudiant-Coop Copilot (honest interview and job-search assistant)
+
+**Problem:** co-op students repeat the same tasks (match a CV to an offer, prepare STAR answers) and are tempted to embellish.
+
+- `profile.py` — your profile is a JSON file of your **real** experiences (see `examples/profile.example.json`, a placeholder template: replace every field with your own).
+- `match.py` — compares a job offer to your profile: covered skills with evidence, and honest gaps.
+- `star.py` — builds a STAR answer from the best-fitting experience; if none fits it says so instead of inventing one.
+- `grounding.py` — flags any skill or number in a draft that is not in your profile.
+- `claude_adapter.py` — **optional Claude layer**: rewrites your true story as a ~90-second spoken answer, then the grounding check verifies Claude added nothing new. Local-first: without an API key everything runs offline.
+
+```bash
+python -m coop_copilot.cli match examples/offer.txt examples/profile.example.json
+python -m coop_copilot.cli star "Tell me about a disagreement in your team" examples/profile.example.json
+python -m coop_copilot.cli star "Tell me about a disagreement in your team" examples/profile.example.json --claude --offer examples/offer.txt
+python -m coop_copilot.cli check my_draft.txt examples/profile.example.json
+```
+
+**Limits:** skill detection uses a small keyword lexicon; the Claude layer needs your API key and sends only the story and offer text you choose (use the PII guard from `genai_lab` on anything personal). The tool cannot make a weak experience strong: practise the answers aloud.
+
 ## Tests
 
 ```bash

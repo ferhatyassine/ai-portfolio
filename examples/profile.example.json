@@ -1,0 +1,25 @@
+{
+  "_README": "TEMPLATE with made-up placeholder stories. Replace EVERY field with your own real experiences before use.",
+  "name": "Your Name",
+  "skills": ["Python", "SQL", "Git", "C#"],
+  "experiences": [
+    {
+      "title": "Course project: group database app",
+      "themes": ["teamwork", "conflict"],
+      "situation": "In a 4-person course project, two teammates disagreed on the database design.",
+      "task": "I had to help the team agree before the demo.",
+      "action": "I proposed testing both designs on sample data with SQL queries and compared the results with the team.",
+      "result": "We chose the faster design and delivered the demo on time.",
+      "skills": ["SQL", "teamwork"]
+    },
+    {
+      "title": "Course project: learning a new tool",
+      "themes": ["learning", "deadline"],
+      "situation": "A project required Git, which I had not used before.",
+      "task": "Learn it in one week to merge work with my team.",
+      "action": "I followed the official documentation, practised on a test repository and asked a teammate to review my first merge.",
+      "result": "I completed my merges without losing teammates' work.",
+      "skills": ["Git"]
+    }
+  ]
+}
