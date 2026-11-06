@@ -45,6 +45,24 @@ python -m genai_lab.cli compare examples/reference.txt examples/baseline.txt
 
 Design follows the Government of Canada's FASTER principles: Fair, Accountable, Secure, Transparent, Educated, Relevant.
 
+## 3. `doc_explainer/` — "Explain my document" (privacy-first assistant)
+
+**Problem:** people receive tax notices, statements and contracts they do not understand, but should not paste private data into a chatbot.
+
+**Pipeline:** mask personal data on your machine → explain in plain language (offline rules, or Claude on the *masked* text only) → **fact guard** → trust report.
+
+- `extract.py` — finds dates, amounts and "what you must do" sentences (English + French), with deadline detection.
+- `factguard.py` — every date or amount in an explanation must exist in the source; otherwise a warning is raised (catches an AI turning `$1,250` into `$1,520`).
+- `explain.py` — offline explainer, optional Claude explainer, trust report (what was masked, what is certain, what is time-sensitive, what to verify).
+- `cli.py`, `web.py` — command line and a local web page bound to `127.0.0.1`.
+
+```bash
+python -m doc_explainer.cli examples/notice.txt
+python -m doc_explainer.web        # then open http://127.0.0.1:8000
+```
+
+**Limits:** masking is pattern-based and does **not** detect names or street addresses; the offline mode is rule-based and can miss unusual wording; the fact guard checks numbers and dates, not meaning. Not legal or tax advice.
+
 ## Tests
 
 ```bash
